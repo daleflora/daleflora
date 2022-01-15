@@ -1,0 +1,1228 @@
+Uri: https://www.everflora.co.ke/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/02/grid-home-page-background-2.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\02\grid-home-page-background-2.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\xfn\11.html
+Content Type: text/html
+
+Uri: https://www.google.com/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index-1.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/feed/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.everflora.co.ke/comments/feed/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/css/dripicons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\css\dripicons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/css/elegant-icons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\css\elegant-icons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/css/all.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/css/ionicons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/css/linea-icons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\css\linea-icons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/css/linear-icons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\css\linear-icons.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons&ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\icon.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/css/simple-line-icons.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\css\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-includes/css/dist/block-library/style.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.23
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/qode-framework/inc/common/assets/plugins/select2/select2.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\qode-framework\inc\common\assets\plugins\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/core-dashboard/assets/css/core-dashboard.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\core-dashboard\assets\css\core-dashboard.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/css/main.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/assets/css/roisin-core.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\assets\css\roisin-core.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora-child/style.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora-child\style.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/style.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\style.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/plugins/swiper/swiper.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\plugins\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/plugins/magnific-popup/magnific-popup.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\plugins\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:300%2C400%2C400i%2C500%2C600%2C700|Crimson+Text:300%2C400%2C400i%2C500%2C600%2C700|Open+Sans:300%2C400%2C400i%2C500%2C600%2C700&subset=latin-ext&ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/elementor/assets/css/elementor.min.css?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\elementor\assets\css\elementor.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/elementor/css/post-1.css?ver=1610378527
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\elementor\css\post-1.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/elementor/css/global.css?ver=1610378527
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/elementor/css/post-1582.css?ver=1618494743
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\elementor\css\post-1582.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Tangerine:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Crimson+Text:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css-1.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-json/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/wp/v2/pages/1582
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\wp\v2\pages\1582.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://www.everflora.co.ke/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2F
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Eveflora-Favicon-150x150.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Eveflora-Favicon-150x150.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Eveflora-Favicon.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Eveflora-Favicon.png
+Content Type: image/png
+
+Uri: https://roisin.qodeinteractive.com/shop/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\shop\index.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0047.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0047.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0024.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0019.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0019.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/search/Rainbow+Ridge+Street,+35+|+New+York/@40.7352959,-74.0053073,14z/data=!3m1!4b1?hl=sr
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\maps\search\Rainbow Ridge Street, 35  New York\@40.7352959,-74.0053073,14z\data=!3m1!4b1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=qGjIZA0vuow
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\watch.html
+Content Type: text/html
+
+Uri: https://onspot.co.ke/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index-3.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/terms-and-conditions/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/privacy-policy/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/sitemap_index.xml
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\sitemap_index.xml
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Quicksand:500%2C300|Roboto+Condensed:300
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css-2.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.2.23
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.23
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-MQRDGKTZWB
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/Everfresh-Logo-Kenya.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\Everfresh-Logo-Kenya.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/revslider/primrose/grid-home-rev-img-2a.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\revslider\primrose\grid-home-rev-img-2a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/slider-1.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/slider-2.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/slider-3.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/gladiator.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\gladiator.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9986.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9986.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9985.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9985.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9983.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9983.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9979.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9979.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9972.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9972.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9970.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9970.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9966-1.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9966-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0027.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0027.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0019.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0019.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9997.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9997.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9205.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9205.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9328.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9328.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9334.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9334.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9161.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9161.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9166.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9166.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9169.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9171.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9171.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9178.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9178.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9192.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9192.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9194.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9194.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9201.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9201.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9202.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9203.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9203.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9966.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9966.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9965.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9965.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0021.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0021.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9217.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9217.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9211.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9211.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9207.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9207.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9181.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9181.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9238.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9238.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9234.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9231.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9231.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9222.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9218.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9218.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/IMG_9229.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\IMG_9229.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0012.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0012.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0026.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0026.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0017.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0002.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0002.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0011.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0011.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_0005.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_0005.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/IMG_9999.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\IMG_9999.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0047-768x431.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0047-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0024-768x431.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0024-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0019-768x431.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0019-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/01/About-Us.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\01\About-Us.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Hydroponic-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Hydroponic-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Competitve-Pricing.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Competitve-Pricing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Staff.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Staff.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Less-is-more.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Less-is-more.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Going-Green.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Going-Green.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/social-good.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\social-good.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/ggn-logo-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\ggn-logo-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/MPS-Logo-150x150.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\MPS-Logo-150x150.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/video-image-1.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\video-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/elementor/thumbs/Everflora-Logo-owh46czi7msgjd0n8b3c85q2jtnzunmfqzmoki9982.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\elementor\thumbs\Everflora-Logo-owh46czi7msgjd0n8b3c85q2jtnzunmfqzmoki9982.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/url.min.js?ver=d80b474ffb72c3b6933165cc1b3419f6
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/hooks.min.js?ver=63769290dead574c40a54748f22ada71
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/dist/api-fetch.min.js?ver=0bb73d10eeea78a4d642cdd686ca7f59
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/assets/plugins/jquery/jquery.easing.1.3.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\assets\plugins\jquery\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/assets/plugins/modernizr/modernizr.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\assets\plugins\modernizr\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/js/main.min.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyC4fMs_75j-OHE7LRQgf1cQ6iZ0xvKOzO8&ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/maps/assets/js/custom-marker.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\maps\assets\js\custom-marker.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/maps/assets/js/markerclusterer.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\maps\assets\js\markerclusterer.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/maps/assets/js/google-map.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\maps\assets\js\google-map.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/assets/js/roisin-core.min.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\assets\js\roisin-core.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/plugins/waitforimages/jquery.waitforimages.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\plugins\waitforimages\jquery.waitforimages.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/plugins/appear/jquery.appear.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\plugins\appear\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/plugins/magnific-popup/jquery.magnific-popup.min.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\plugins\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LceoCgaAAAAANaldgHPn0nb-ia_ZwCb9GlFeWpb&ver=3.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/wp-embed.min.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.16
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/elementor/assets/js/elementor.js?ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\elementor\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/02/gladiator-300x245.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\02\gladiator-300x245.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0047-300x168.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0047-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0047-1024x575.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0047-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0024-300x168.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0024-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0024-1024x575.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0024-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0019-300x168.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0019-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/04/DJI_0019-1024x575.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\04\DJI_0019-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/01/About-Us-300x300.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\01\About-Us-300x300.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2021/01/About-Us-150x150.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2021\01\About-Us-150x150.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Hydroponic-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Hydroponic-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Hydroponic-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Hydroponic-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Hydroponic.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Hydroponic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Competitve-Pricing-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Competitve-Pricing-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Competitve-Pricing-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Competitve-Pricing-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Competitve-Pricing-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Competitve-Pricing-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Staff-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Staff-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Staff-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Staff-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Staff-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Staff-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Less-is-more-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Less-is-more-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Less-is-more-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Less-is-more-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Less-is-more-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Less-is-more-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Going-Green-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Going-Green-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Going-Green-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Going-Green-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/Going-Green-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\Going-Green-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/social-good-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\social-good-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/social-good-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\social-good-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/social-good-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\social-good-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/ggn-logo-1.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\ggn-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/10/MPS-Logo.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\10\MPS-Logo.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/video-image-1-300x125.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\video-image-1-300x125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/video-image-1-1024x427.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\video-image-1-1024x427.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/video-image-1-768x320.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\video-image-1-768x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/uploads/2020/12/video-image-1-1536x640.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2020\12\video-image-1-1536x640.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index-2.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/fonts/dripicons-v2.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\fonts\dripicons-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/fonts/dripicons-v2.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\fonts\dripicons-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/fonts/dripicons-v2.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\fonts\dripicons-v2.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/fonts/dripicons-v2.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\fonts\dripicons-v2.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/dripicons/assets/fonts/dripicons-v2.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\dripicons\assets\fonts\dripicons-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\elegant-icons\assets\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/font-awesome/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\font-awesome\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/fonts/ionicons.eot?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/fonts/ionicons.woff2?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/fonts/ionicons.woff?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/fonts/ionicons.ttf?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/ionicons/assets/fonts/ionicons.svg?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\ionicons\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/arrows/fonts/linea-arrows-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\arrows\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/arrows/fonts/linea-arrows-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\arrows\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/arrows/fonts/linea-arrows-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\arrows\fonts\linea-arrows-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/arrows/fonts/linea-arrows-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\arrows\fonts\linea-arrows-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/arrows/fonts/linea-arrows-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\arrows\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic/fonts/linea-basic-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic/fonts/linea-basic-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic/fonts/linea-basic-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic\fonts\linea-basic-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic/fonts/linea-basic-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic\fonts\linea-basic-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic/fonts/linea-basic-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic-elaboration/fonts/linea-basic-elaboration-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic-elaboration\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic-elaboration/fonts/linea-basic-elaboration-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic-elaboration\fonts\linea-basic-elaboration-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic-elaboration/fonts/linea-basic-elaboration-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic-elaboration\fonts\linea-basic-elaboration-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic-elaboration/fonts/linea-basic-elaboration-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic-elaboration\fonts\linea-basic-elaboration-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/basic-elaboration/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\basic-elaboration\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/ecommerce/fonts/linea-ecommerce-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\ecommerce\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/ecommerce/fonts/linea-ecommerce-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\ecommerce\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/ecommerce/fonts/linea-ecommerce-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\ecommerce\fonts\linea-ecommerce-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/ecommerce/fonts/linea-ecommerce-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\ecommerce\fonts\linea-ecommerce-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/ecommerce/fonts/linea-ecommerce-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\ecommerce\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/music/fonts/linea-music-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\music\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/music/fonts/linea-music-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\music\fonts\linea-music-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/music/fonts/linea-music-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\music\fonts\linea-music-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/music/fonts/linea-music-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\music\fonts\linea-music-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/music/fonts/linea-music-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\music\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/software/fonts/linea-software-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\software\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/software/fonts/linea-software-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\software\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/software/fonts/linea-software-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\software\fonts\linea-software-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/software/fonts/linea-software-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\software\fonts\linea-software-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/software/fonts/linea-software-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\software\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/weather/fonts/linea-weather-10.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\weather\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/weather/fonts/linea-weather-10.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\weather\fonts\linea-weather-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/weather/fonts/linea-weather-10.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\weather\fonts\linea-weather-10.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/weather/fonts/linea-weather-10.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\weather\fonts\linea-weather-10.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linea-icons/assets/fonts/weather/fonts/linea-weather-10.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linea-icons\assets\fonts\weather\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/linear-icons/assets/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\linear-icons\assets\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/inc/icons/simple-line-icons/assets/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\inc\icons\simple-line-icons\assets\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.everflora.co.ke/wp-content/themes/everflora/assets/img/menu-arrow.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\themes\everflora\assets\img\menu-arrow.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Dawning+of+a+New+Day&display=swap
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css-3.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/roisin-core/assets/img/insta-hover-bg.png
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\roisin-core\assets\img\insta-hover-bg.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Dawning+of+a+New+Day&display=swap);.roisin-core-page-inline-style{position:absolute!important;width:0;height:0;line-height:1;display:none}.qodef-m-vertical-text>span{opacity:0}.qodef-m-vertical-text>span span{opacity:0;-webkit-transition:.5s;-o-transition:.5s;transition:.5s}.qodef-m-vertical-text>span span.qodef--show{opacity:1}.qodef-m-vertical-text.qodef-m-vertical-text-rev>span{font-size:19px;margin:0;font-family:"Crimson Text",serif;font-style:italic;letter-spacing:.02em;color:
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css-4.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://roisin.qodeinteractive.com/wp-content/uploads/2019/12/main-home-img-7-1.jpg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\uploads\2019\12\main-home-img-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.everflora.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.7
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\css-5.css
+Content Type: text/css
+
+Uri: https://www.everflora.co.ke/wp-json/wp/v2/pages/6323
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\wp\v2\pages\6323.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2Fterms-and-conditions%2F
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2Fterms-and-conditions%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.termsandconditionsgenerator.com/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index-4.htm
+Content Type: text/html
+
+Uri: https://www.generateprivacypolicy.com/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\index-5.htm
+Content Type: text/html
+
+Uri: https://www.everflora.co.ke/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\privacy-policy\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.everflora.co.ke/wp-json/wp/v2/pages/5
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\wp\v2\pages\5.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.everflora.co.ke/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.everflora.co.ke%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://www.termsfeed.com/blog/cookies/
+File Name: C:\Downloaded Web Sites\www.everflora.co.ke\blog\cookies\index.htm
+Content Type: text/html
+
